@@ -47,6 +47,8 @@
 	"sesp-property-user-right-desc": "{{Doc-smw-sp-desc|extension=SESP}}",
 	"sesp-property-user-group": "This is the name of a special property.",
 	"sesp-property-user-group-desc": "{{Doc-smw-sp-desc|extension=SESP}}",
+	"sesp-property-redirected-from": "{{Doc-smw-sp|extension=SESP}}",
+	"sesp-property-redirected-from-desc": "{{Doc-smw-sp-desc|extension=SESP}}",
 	"sesp-property-exif-data": "{{Doc-smw-sp|extension=SESP}}",
 	"sesp-property-exif-data-desc": "{{Doc-smw-sp-desc|extension=SESP}}",
 	"sesp-exif-languagecode": "This is the name of a special property.",

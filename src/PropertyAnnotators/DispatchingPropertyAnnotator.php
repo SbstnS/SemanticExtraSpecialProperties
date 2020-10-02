@@ -155,6 +155,10 @@ class DispatchingPropertyAnnotator implements PropertyAnnotator {
 				return new PageLengthPropertyAnnotator( $appFactory );
 			},
 
+			RedirectedFromPropertyAnnotator::PROP_ID => function( $appFactory ) {
+				return new RedirectedFromPropertyAnnotator( $appFactory );
+			},
+
 			RevisionIDPropertyAnnotator::PROP_ID => function( $appFactory ) {
 				return new RevisionIDPropertyAnnotator( $appFactory );
 			},

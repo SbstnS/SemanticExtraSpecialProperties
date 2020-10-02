@@ -17,6 +17,7 @@
             "group_name":"Page related",
             "message_key": "sesp-property-group-label-page-data-group",
             "properties": [
+                "___REDIFROM",
                 "___REVID",
                 "___PAGEID",
                 "___PAGELGTH",

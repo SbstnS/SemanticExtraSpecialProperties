@@ -49,6 +49,8 @@
 	"sesp-property-user-group-desc": "\"$1\" records a list of groups applied to a user. It is provided by the [https://www.semantic-mediawiki.org/wiki/Extension:Semantic_Extra_Special_Properties Semantic Extra Special Properties] extension.",
 	"sesp-property-exif-data": "Exif data",
 	"sesp-property-exif-data-desc": "\"$1\" records the file's EXIF data. It is provided by the [https://www.semantic-mediawiki.org/wiki/Extension:Semantic_Extra_Special_Properties Semantic Extra Special Properties] extension.",
+	"sesp-property-redirected-from": "Redirected from",
+	"sesp-property-redirected-from-desc": "\"$1\" records the page titles which redirect to the current page. It is provided by the [https://www.semantic-mediawiki.org/wiki/Extension:Semantic_Extra_Special_Properties Semantic Extra Special Properties] extension.",
 	"sesp-exif-languagecode": "Exif:Language code",
 	"sesp-exif-label": "Exif:Label",
 	"sesp-exif-iimcategory": "Exif:Iim Category",

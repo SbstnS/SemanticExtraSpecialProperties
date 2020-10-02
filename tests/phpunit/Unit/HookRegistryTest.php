@@ -64,6 +64,7 @@ class HookRegistryTest extends \PHPUnit_Framework_TestCase {
 			'___EUSER',
 			'___CUSER',
 			'___SUBP',
+			'___REDIFROM',
 			'___REVID',
 			'___VIEWS',
 			'___NREV',

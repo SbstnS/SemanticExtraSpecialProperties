@@ -84,7 +84,7 @@ class HookRegistry {
 		$vars['wgHooks']['SMW::Config::BeforeCompletion'][] = function( &$config ) {
 
 			$exemptionlist = [
-				'___EUSER', '___CUSER', '___SUBP', '___REVID', '___VIEWS',
+				'___EUSER', '___CUSER', '___SUBP', '___REDIFROM', '___REVID', '___VIEWS',
 				'___NREV', '___NTREV', '___USEREDITCNT', '___EXIFDATA'
 			];
 

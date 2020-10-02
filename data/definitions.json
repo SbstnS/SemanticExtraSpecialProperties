@@ -1,4 +1,12 @@
 {
+	"_REDIFROM": {
+		"id": "___REDIFROM",
+		"type": "_txt",
+		"show": false,
+		"alias": "sesp-property-redirected-from",
+		"label": "Redirected from",
+		"desc": "sesp-property-redirected-from-desc"
+	},
 	"_REVID": {
 		"id": "___REVID",
 		"type": "_num",

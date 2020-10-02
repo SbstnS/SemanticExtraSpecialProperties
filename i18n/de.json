@@ -37,6 +37,8 @@
 	"sesp-property-user-right-desc": "„$1“ stellt eine Liste mit auf einen Benutzer angewandte Rechte zur Verfügung und wird von der Erweiterung [https://www.semantic-mediawiki.org/wiki/Extension:Semantic_Extra_Special_Properties Semantic Extra Special Properties] zur Verfügung gestellt.",
 	"sesp-property-user-group": "Benutzergruppe",
 	"sesp-property-user-group-desc": "„$1“ stellt eine Liste mit auf einen Benutzer angewandte Gruppen zur Verfügung und wird von der Erweiterung [https://www.semantic-mediawiki.org/wiki/Extension:Semantic_Extra_Special_Properties Semantic Extra Special Properties] zur Verfügung gestellt.",
+	"sesp-property-redirected-from": "Weiterleitungen",
+	"sesp-property-redirected-from-desc": "„$1“ zeigt alle Weiterleitung die auf diese Seite zeigen und wird von der Erweiterung [https://www.semantic-mediawiki.org/wiki/Extension:Semantic_Extra_Special_Properties Semantic Extra Special Properties] zur Verfügung gestellt.",
 	"sesp-property-exif-data": "Exif-Daten",
 	"sesp-property-exif-data-desc": "„$1“ speichert die EXIF Daten der Datei und wird von der Erweiterung [https://www.semantic-mediawiki.org/wiki/Extension:Semantic_Extra_Special_Properties Semantic Extra Special Properties] zur Verfügung gestellt.",
 	"sesp-exif-languagecode": "Exif:Sprachcode",
